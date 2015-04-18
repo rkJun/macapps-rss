@@ -13,7 +13,7 @@ $ ruby rank.rb
 ```
 
 ### Result
-- output top 100 mac apps ranking 6 files.
+- output top 100 iPhone free apps ranking 6 files.
   (Korea, U.S, U.K, Japan, China, Hongkong)
 
 
