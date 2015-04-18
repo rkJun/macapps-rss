@@ -7,7 +7,7 @@ require 'open-uri'
 puts '=== get appstore rank ==='
 
 countries = [ 'kr', 'us', 'jp', 'uk', 'cn', 'hk' ]
-feed_types = [ 'topmacapps', 'topfreemacapps', 'toppaidmacapps' ]
+feed_types = [ 'topfreeapplications', 'topmacapps', 'topfreemacapps', 'toppaidmacapps' ]
 # 10,25,50,100
 limit = 100
 
